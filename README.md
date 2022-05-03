@@ -20,3 +20,8 @@ A continuación introduciremos `sudo vim primero.com` (le ha cambiado el nombre 
 Ahora nos moveremos al directorio sites-enabled y mediante el comando `ln -s ..` más la ruta del archivo, crearemos un archivo para los dominios que se encuentran en sites-available
 
 ![image](https://user-images.githubusercontent.com/91564872/166516198-560a70cc-fe5e-44d9-a118-4644be76d9cd.png)
+
+A continuación volveremos a editar primero.com mediante el comando `vim` para eliminar dos configuraciones que nos limitan a recargar nginx al estar configuradas para el "default-server"
+
+![image](https://user-images.githubusercontent.com/91564872/166517376-c0fa50f0-cac7-41db-8b15-fe1b84e9ed8b.png)
+
