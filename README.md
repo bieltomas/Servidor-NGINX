@@ -4,6 +4,10 @@ En primer lugar acudiremos a la terminal de Ubuntu y instalaremos NGINX mediante
 
 ![image](https://user-images.githubusercontent.com/91564872/166506611-11acb911-4701-4b70-b4ea-9b57e85a1eaf.png)
 
+Iremos al navegador e introduciremos `localhost` para comprobar que se ha instalado correctamente
+
+![image](https://user-images.githubusercontent.com/91564872/166961750-8804afad-5c4d-44ea-9b34-ab71aca18dec.png)
+
 A continuación nos dirigiremos al directorio de nginx "sites-available"
 
 ![image](https://user-images.githubusercontent.com/91564872/166507562-c0d662ba-d5aa-4ade-bbbe-67d22b3d84e2.png)
