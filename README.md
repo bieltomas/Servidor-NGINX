@@ -25,10 +25,13 @@ A continuación volveremos a editar primero.com mediante el comando `vim` para e
 
 ![image](https://user-images.githubusercontent.com/91564872/166517376-c0fa50f0-cac7-41db-8b15-fe1b84e9ed8b.png)
 
+A continuación descargaremos los codigos html de dos páginas web de onehtmlpagechallenge.com (en mi caso ASCII Camera y Adjustable Fireworks) y los moveremos con el nombre de index a unas carpetas creadas (primero y segundo) dentro del directorio `/var/www`. Una vez hecho esto usaremos `sudo nano hosts` para modificar el archivo hosts y introducir nuestras dos paginas web que se ejecutarán dentro del servidor nginx
+
 ![image](https://user-images.githubusercontent.com/91564872/166959751-5ad2df34-ae0f-4319-8908-fcb9974d5102.png)
 
-
 ![image](https://user-images.githubusercontent.com/91564872/166959611-6934850d-1860-4a59-bb2f-543d2861e3cb.png)
+
+Finalmente introduciremos en nuestro navegador el dominio que les hemos puesto a nuestras paginas web (en mi caso primero.sistemas.com y segundo.sistemas.com) y como vemos en las imágenes funcionan a la perfección
 
 ![image](https://user-images.githubusercontent.com/91564872/166960140-942dd3bd-25a9-471d-8392-0c5a7ccd1b6d.png)
 
