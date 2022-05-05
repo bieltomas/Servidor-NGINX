@@ -25,3 +25,12 @@ A continuación volveremos a editar primero.com mediante el comando `vim` para e
 
 ![image](https://user-images.githubusercontent.com/91564872/166517376-c0fa50f0-cac7-41db-8b15-fe1b84e9ed8b.png)
 
+![image](https://user-images.githubusercontent.com/91564872/166959751-5ad2df34-ae0f-4319-8908-fcb9974d5102.png)
+
+
+![image](https://user-images.githubusercontent.com/91564872/166959611-6934850d-1860-4a59-bb2f-543d2861e3cb.png)
+
+![image](https://user-images.githubusercontent.com/91564872/166960140-942dd3bd-25a9-471d-8392-0c5a7ccd1b6d.png)
+
+![image](https://user-images.githubusercontent.com/91564872/166960046-a294142d-e0d9-486b-a36c-569fa8367515.png)
+
